@@ -2,8 +2,12 @@
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: #e2e2e6;
+  background: #111316;
 }
 
 body {
   margin: 0;
+  background: #111316;
+  color: #e2e2e6;
 }
